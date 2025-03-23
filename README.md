@@ -62,13 +62,6 @@ To run the program offline, follow the following steps:
 * On first terminal execute
 * `npm run start`
 
-For any queries, reach out to the Developers :
-
-* [Siddharth Pandey](mailto:siddharth25pandey@gmail.com)
-* [Shreyash Mishra](mailto:shreyashm1601@gmail.com) 
-* [Priyam Bajpai](mailto:priyambajpai@yahoo.in) 
-* [Yaduraj Deshmukh](mailto:yadurajdeshmukh2.303@gmail.com)
-* [Naveen Kumar](mailto:naveenkumar.k19@gmail.com)
 
 ##
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)
